@@ -1,7 +1,5 @@
 # text-as-data-exercises
 
-# Python-Based Text-as-Data Exercise
-
 This repository contains two Google Colab notebooks:
 
 1. **Python Basics**  
